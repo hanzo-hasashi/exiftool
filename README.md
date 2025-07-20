@@ -30,7 +30,7 @@ ExifTool is a powerful open-source command-line tool for reading, writing, and e
 
 ### 🖥️ Download
 
-1. Go to the [Releases](https://github.com/your-username/exiftool-windows-archive/releases) section
+1. Go to the [Releases](https://github.com/hanzo-hasashi/exiftool/releases) section
 2. Download the required version of `exiftool.exe`
 3. (Optional) Verify using the checksum provided
 
